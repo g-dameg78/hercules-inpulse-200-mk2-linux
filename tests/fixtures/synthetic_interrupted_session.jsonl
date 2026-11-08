@@ -1,0 +1,3 @@
+{"t_seconds": 0.100, "bytes": [177, 0, 64], "channel": 1, "status_hex": "0xB1", "message": "control_change channel=1 control=0 value=64"}
+{"t_seconds": 0.200, "bytes": [145, 7, 127], "channel": 1, "status_hex": "0x91", "message": "note_on channel=1 note=7 velocity=127"}
+{"t_seconds": 0.300, "bytes": [178, 0, 100], "channel": 2, "status_hex": "0xB2", "message": "control_change channel=2 control=0 value=100"}

@@ -1,0 +1,5 @@
+{"t_seconds": 0.100, "bytes": [177, 10, 0], "channel": 1, "status_hex": "0xB1", "message": "control_change channel=1 control=10 value=0"}
+{"t_seconds": 0.200, "bytes": [177, 10, 32], "channel": 1, "status_hex": "0xB1", "message": "control_change channel=1 control=10 value=32"}
+{"t_seconds": 0.300, "bytes": [177, 10, 64], "channel": 1, "status_hex": "0xB1", "message": "control_change channel=1 control=10 value=64"}
+{"t_seconds": 0.400, "bytes": [177, 10, 96], "channel": 1, "status_hex": "0xB1", "message": "control_change channel=1 control=10 value=96"}
+{"t_seconds": 0.500, "bytes": [177, 10, 127], "channel": 1, "status_hex": "0xB1", "message": "control_change channel=1 control=10 value=127"}

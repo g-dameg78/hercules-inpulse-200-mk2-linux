@@ -1,0 +1,101 @@
+{
+  "source_commit": "fd97dc2e13f0969c98dbd3b8008ee48b9b807f50",
+  "files": [
+    {
+      "path": "tools/inpulse_protocol.py",
+      "sha256": "dc1c754aebbf5eb9aa2771db4a1cb866d400baf5f49daec66566a07d1395b000",
+      "source_commit": "fd97dc2e13f0969c98dbd3b8008ee48b9b807f50",
+      "export": "byte-identical"
+    },
+    {
+      "path": "tools/midi_capture.py",
+      "sha256": "4d76c3eeab3062babe2d79e1f67624f76560657f18998d34fa7710d71540d02b",
+      "source_commit": "fd97dc2e13f0969c98dbd3b8008ee48b9b807f50",
+      "export": "byte-identical"
+    },
+    {
+      "path": "tools/replay_validator.py",
+      "sha256": "5bccf2b3618f62b20f7f9fde6f9de01f02cd897a8e540bf410b38962607ec4e9",
+      "source_commit": "fd97dc2e13f0969c98dbd3b8008ee48b9b807f50",
+      "export": "byte-identical"
+    },
+    {
+      "path": "tests/test_inpulse_protocol.py",
+      "sha256": "ae7ea2aaa915402a5a2f5be20467c7f3d6696a1465c62d12e33e50debe71fb96",
+      "source_commit": "fd97dc2e13f0969c98dbd3b8008ee48b9b807f50",
+      "export": "byte-identical"
+    },
+    {
+      "path": "tests/test_midi_capture.py",
+      "sha256": "56423ea6809c3f4169ded35361ea59c049da1577e8c4339b91b7bac6ba967817",
+      "source_commit": "fd97dc2e13f0969c98dbd3b8008ee48b9b807f50",
+      "export": "byte-identical"
+    },
+    {
+      "path": "tests/test_replay_validator.py",
+      "sha256": "0021a499edd216aff26cb888bc746e05592c13bf67cbb0ef82a3fde69b481396",
+      "source_commit": "fd97dc2e13f0969c98dbd3b8008ee48b9b807f50",
+      "export": "byte-identical"
+    },
+    {
+      "path": "tests/fixtures/MK2_CAPTURE_EXCERPTS.jsonl",
+      "sha256": "c8f6227d8e3451608f56cfbe6d698bc81b0ae9b8bc467f11656bf694938bb34e",
+      "source_commit": "fd97dc2e13f0969c98dbd3b8008ee48b9b807f50",
+      "export": "byte-identical"
+    },
+    {
+      "path": "tests/fixtures/SYNTHETIC_session.jsonl",
+      "sha256": "81dcb78cfdfe5cd70471d611272103acdcad4391eb077f00877db6a5a8114ba5",
+      "source_commit": "fd97dc2e13f0969c98dbd3b8008ee48b9b807f50",
+      "export": "byte-identical"
+    },
+    {
+      "path": "tests/fixtures/synthetic_ambiguous_channel.jsonl",
+      "sha256": "5e4a9b0d99930ed8aa67984f55df0fdbd5877c323c694918acf91d9708d4ff23",
+      "source_commit": "fd97dc2e13f0969c98dbd3b8008ee48b9b807f50",
+      "export": "byte-identical"
+    },
+    {
+      "path": "tests/fixtures/synthetic_ambiguous_relative.jsonl",
+      "sha256": "57c1ba92831ad9ceb7d9ba00890cd6955e90f70916636a66e3d844e5b1b86478",
+      "source_commit": "fd97dc2e13f0969c98dbd3b8008ee48b9b807f50",
+      "export": "byte-identical"
+    },
+    {
+      "path": "tests/fixtures/synthetic_clean_acceptance.jsonl",
+      "sha256": "a802547327f4836fa758e7a8d4e1521e62837f9103f6b005598d38d7e2d4a710",
+      "source_commit": "fd97dc2e13f0969c98dbd3b8008ee48b9b807f50",
+      "export": "byte-identical"
+    },
+    {
+      "path": "tests/fixtures/synthetic_empty_device_absence.jsonl",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_commit": "fd97dc2e13f0969c98dbd3b8008ee48b9b807f50",
+      "export": "byte-identical"
+    },
+    {
+      "path": "tests/fixtures/synthetic_feedback_pollution.jsonl",
+      "sha256": "b3dbba541114c939057fa51371132efc6f3b4752090acf3c98c2476c6e6b577a",
+      "source_commit": "fd97dc2e13f0969c98dbd3b8008ee48b9b807f50",
+      "export": "byte-identical"
+    },
+    {
+      "path": "tests/fixtures/synthetic_interrupted_session.jsonl",
+      "sha256": "d178e7cfd6bbb378507312cc8568ddbb8b868e001806c9096c86864d4dbe56fd",
+      "source_commit": "fd97dc2e13f0969c98dbd3b8008ee48b9b807f50",
+      "export": "byte-identical"
+    },
+    {
+      "path": "tests/fixtures/synthetic_non_monotonic_time.jsonl",
+      "sha256": "fbe1722e489f7fa185b7172eb79f39951edef22a1a394728830cfb7841fab894",
+      "source_commit": "fd97dc2e13f0969c98dbd3b8008ee48b9b807f50",
+      "export": "byte-identical"
+    },
+    {
+      "path": "tests/fixtures/synthetic_unmapped_controls.jsonl",
+      "sha256": "b3622ea2721d22e5b05243ab247348a6aca7a9cf7fad4c43b33dc734968a94f7",
+      "source_commit": "fd97dc2e13f0969c98dbd3b8008ee48b9b807f50",
+      "export": "byte-identical"
+    }
+  ]
+}

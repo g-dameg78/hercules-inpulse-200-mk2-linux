@@ -1,0 +1,4 @@
+{"t_seconds": 0.100, "bytes": [177, 0, 64], "channel": 1, "status_hex": "0xB1", "message": "control_change channel=1 control=0 value=64", "phase": "deck_a_fader", "provisional_id": "volume", "deck": "A", "provenance": "live-reported:gabi-midi-control-v0.1@2026-08-25"}
+{"t_seconds": 0.200, "bytes": [176, 3, 45], "channel": 0, "status_hex": "0xB0", "message": "control_change channel=0 control=3 value=45", "phase": "master_and_monitoring", "provisional_id": null, "deck": null, "provenance": "UNMAPPED"}
+{"t_seconds": 0.300, "bytes": [176, 3, 90], "channel": 0, "status_hex": "0xB0", "message": "control_change channel=0 control=3 value=90", "phase": "master_and_monitoring", "provisional_id": null, "deck": null, "provenance": "UNMAPPED"}
+{"t_seconds": 0.400, "bytes": [177, 3, 64], "channel": 1, "status_hex": "0xB1", "message": "control_change channel=1 control=3 value=64", "phase": "deck_a_knobs", "provisional_id": null, "deck": "A", "provenance": "UNMAPPED"}

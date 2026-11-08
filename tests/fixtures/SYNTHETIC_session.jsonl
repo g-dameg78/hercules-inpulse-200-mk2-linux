@@ -1,0 +1,8 @@
+{"t_seconds": 0.010, "message": "SYNTHETIC deck A play press", "bytes": [145, 7, 127]}
+{"t_seconds": 0.120, "message": "SYNTHETIC deck A play release", "bytes": [145, 7, 0]}
+{"t_seconds": 0.500, "message": "SYNTHETIC deck A jog rim cw", "bytes": [177, 9, 1]}
+{"t_seconds": 0.510, "message": "SYNTHETIC deck A jog rim ccw", "bytes": [177, 9, 127]}
+{"t_seconds": 0.900, "message": "SYNTHETIC deck B pitch msb", "bytes": [178, 8, 64]}
+{"t_seconds": 0.901, "message": "SYNTHETIC deck B pitch lsb", "bytes": [178, 40, 0]}
+{"t_seconds": 1.200, "message": "SYNTHETIC crossfader", "bytes": [176, 0, 64]}
+{"t_seconds": 1.500, "message": "SYNTHETIC unmapped (e.g. master knob)", "bytes": [176, 3, 90]}
